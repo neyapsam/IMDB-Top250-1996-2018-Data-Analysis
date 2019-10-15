@@ -29,7 +29,7 @@ d)Ranking differences of movies over years
 
 e)Ratings and new rankings for IMDB's top1000 users
 
-# More complex calculations about variables will be added
+# PS: More complex calculations about variables will be added
 
 ## IMDB Top250 1996-1998 Veri Analizi
 
@@ -60,4 +60,4 @@ d) 1996'dan beri aralıksız listede bulunan filmlerin 1996'dan günümüze sır
 
 e) IMDB'nin top 1000 kullanıcısının verdiği oylara göre oluşan puanlar ve buna göre sıralama
 
-# 3) Değişkenler arasındaki ilişkilerin daha kompleks versiyonları eklecek.
+# Not: Değişkenler arasındaki ilişkilerin daha kompleks versiyonları eklecek.
