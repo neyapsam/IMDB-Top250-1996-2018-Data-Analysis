@@ -1,3 +1,5 @@
+If you have a problem when displaying some stuff, you can use https://nbviewer.jupyter.org
+
 # IMDB Top250 1996-2018 Data Analysis
 
 IMDB's pollmaster account (https://www.imdb.com/user/ur48187336/?ref_=_usr) have shared previous years IMDB Top250 lists.
