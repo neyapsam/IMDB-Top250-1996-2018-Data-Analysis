@@ -15,7 +15,7 @@ b) Getting that movies general infos (date, casts, gross etc.) & Cleaning the da
 
 c) For movies is in the list getting IMDB's top 1000 voter's rating.
 
-# 2) IMDB Top250 analysis:
+# 2) IMDB Top 250 analysis watchlists & dir, cast, changes:
 
 This script contains:
 
@@ -29,6 +29,7 @@ d)Ranking differences of movies over years
 
 e)Ratings and new rankings for IMDB's top1000 users
 
+# More complex calculations about variables will be added
 
 ## IMDB Top250 1996-1998 Veri Analizi
 
@@ -47,7 +48,7 @@ c) Ayrıca, IMDB'nin top 1000 kullanıcısının oylamaları
 
 Not: Top 1000 kullanıcı, IMDB'nin en çok film oylayan/yorumlayan ve yıllardır bunu sürdüren kişilerden oluşturduğu bin kişiyi içeriyor.
 
-# 2) IMDB top250 analysis:
+# 2) IMDB Top250 analysis watchlists & dir,cast,changes:
 
 a) Sayısal değişkenler arasındaki temel ilişkiler (Metascore puanı, IMDB Rating değeri, hasılat, tarih gibi değişkenler)
 
@@ -59,3 +60,4 @@ d) 1996'dan beri aralıksız listede bulunan filmlerin 1996'dan günümüze sır
 
 e) IMDB'nin top 1000 kullanıcısının verdiği oylara göre oluşan puanlar ve buna göre sıralama
 
+# 3) Değişkenler arasındaki ilişkilerin daha kompleks versiyonları eklecek.
